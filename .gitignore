@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+.idea/
+datasets/
+lab4/data/
+lab4/runs/
+lab6/runs/
+lab6/data/
+lab6/.torch_hub/
+*.pt
+*.pth
+*.docx
+*.ipynb
+*.zip
+*.tar.gz
